@@ -1,0 +1,23 @@
+/*tags*/
+body{
+  margin: 0;
+}
+
+h1 {
+  color: gray;
+}
+
+h3 {
+  color: gray;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: gray;
+  border-width: 5px;
+}
+
+/*Classes*/
+.headerDiv {
+  background-color: powderblue;
+}
